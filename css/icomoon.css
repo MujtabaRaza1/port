@@ -2103,10 +2103,10 @@
 .icon-hashtag:before {
   content: "\f292";
 }
-.icon-bluetooth:before {
+.icon-lightgreentooth:before {
   content: "\f293";
 }
-.icon-bluetooth-b:before {
+.icon-lightgreentooth-b:before {
   content: "\f294";
 }
 .icon-percent:before {
@@ -2616,16 +2616,16 @@
 .icon-block:before {
   content: "\e14b";
 }
-.icon-bluetooth2:before {
+.icon-lightgreentooth2:before {
   content: "\e1a7";
 }
-.icon-bluetooth_searching:before {
+.icon-lightgreentooth_searching:before {
   content: "\e1aa";
 }
-.icon-bluetooth_connected:before {
+.icon-lightgreentooth_connected:before {
   content: "\e1a8";
 }
-.icon-bluetooth_disabled:before {
+.icon-lightgreentooth_disabled:before {
   content: "\e1a9";
 }
 .icon-blur_circular:before {
@@ -4074,7 +4074,7 @@
 .icon-phone_android:before {
   content: "\e324";
 }
-.icon-phone_bluetooth_speaker:before {
+.icon-phone_lightgreentooth_speaker:before {
   content: "\e61b";
 }
 .icon-phone_forwarded:before {
@@ -4383,7 +4383,7 @@
 .icon-settings_backup_restore:before {
   content: "\e8ba";
 }
-.icon-settings_bluetooth:before {
+.icon-settings_lightgreentooth:before {
   content: "\e8bb";
 }
 .icon-settings_brightness:before {
