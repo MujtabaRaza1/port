@@ -71,6 +71,16 @@ body {
     opacity: 0.1;
   }
 
+  .img23{
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    object-fit: cover;
+    overflow: hidden;
+    opacity: 0.9;
+  }
+
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
